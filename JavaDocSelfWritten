@@ -1,0 +1,143 @@
+
+Hello Everyone,
+
+A Flatmate required in a 2 bhk fully furnished apartment.
+
+Location:
+HDIL Premier Residencies.
+Near Kohinoor City, Kurla.
+
+1.2km from Phoenix Marketcity
+2.2km from VidyaVihar Railway Station
+3.0km from BKC 
+3.2km from Kalina
+4.0km from Kurla Railway Station
+
+
+Availability               : Immediate
+Brokerage                  : ZERO
+Deposit (Fully Refundable) : Rs. 40000
+Rent                       : Rs. 10000
+
+Amenities:
+- Maid, WiFi, Laundry services available. Shared amongst the roommates.
+- Furnishings include Bed, Wardrobe, Fridge, Washing machine, AC in hall.
+- Parking available.
+- 10 mins from Andheri and Azad Nagar Metro
+Wifi, electricity bills, maid expenses are 
+
+For flat visit, please message or whatsapp 9632591866.
+
+Discover restaurants, cafes, spas, salons, gyms, activities & more around you. Buy awesome deals & offers on everything. 
+
+Save money every time you visit a restaurant or spa, also get exciting cashback on your purchase!
+
+smtiwari@9664
+
+AFTPT0681E
+09/06/1964
+10023076729
+
+MultiThreading:
+
+Two types of multitasking:
+
+	process based
+
+	thread based
+
+
+	non-demon thread(live main thread)		eg psvm
+	demon thread(service provider thread) 	eg garbage collector
+
+
+
+Threading:
+
+	Extend Thread
+
+	Implement Runnable
+
+
+	syncronized block is preferred, syncronized method
+
+
+	2500+3000+
+	2000+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1220813-207894-82883-150000
+Collections:
+
+
+Collection:
+	List
+		ArrayList
+		LinkedList (Queue)
+		Vector
+
+	1. 0 based index.
+	2. Allows duplicate	
+	3. Guranteed order
+
+	Set
+		HashSet
+		SortedSet
+			TreeSet
+
+	1. Unique
+
+	equals() + hashcode both are used to compare unique!
+
+	LinkHashSet
+
+
+Map
+	TreeMap
+	HashMap
+
+	ConcurrentHashMap
+		Syncronized HashMap
